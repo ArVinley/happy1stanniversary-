@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Anniversary, Fynn</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="content-box">
+            <div class="heart">❤️</div>
+            <h1>Happy Anniversary, Fynn!</h1>
+            <p>Every moment with you feels like magic. Thank you for being the most wonderful part of my life. Here's to many more memories, laughter, and adventures together. I love you forever and always. ❤️</p>
+            <div class="footer">Made with love by [Your Name] ✨</div>
+        </div>
+
+        <!-- Falling Petals -->
+        <div class="falling-petals">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Petal%2C_White.jpg" class="petal">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Petal%2C_White.jpg" class="petal">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Petal%2C_White.jpg" class="petal">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Petal%2C_White.jpg" class="petal">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Petal%2C_White.jpg" class="petal">
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
